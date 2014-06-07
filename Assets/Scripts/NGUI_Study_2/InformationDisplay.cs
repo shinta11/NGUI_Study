@@ -68,6 +68,7 @@ public class InformationDisplay : MonoBehaviour
         }*/
     }
 
+
     //**********************************
     /// <summary>
     /// 興味のある言語を表示するメソッド
